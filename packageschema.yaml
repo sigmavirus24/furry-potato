@@ -1,0 +1,10 @@
+---
+schema:
+  version: 2016.12
+project:
+  name: packageschema
+  module_names:
+    - packageschema
+  exports:
+    - packageschema.package.Package
+    - packageschema.export.Export
