@@ -13,6 +13,7 @@ requirements = [
     'attrs >= 16.3',
     'jsonschema >= 2.5.1',
     'pyyaml >= 3.12',
+    'packaging >= 16.8',
 ]
 
 setuptools.setup(

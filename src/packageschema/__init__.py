@@ -20,6 +20,7 @@ __build__ = int(
 
 
 _metadata = {
+    'name': 'packageschema',
     'author': 'Ian Cordasco',
     'author_email': 'graffatcolmingov@gmail.com',
     'version': __version__,
