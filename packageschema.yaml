@@ -1,8 +1,9 @@
 ---
 schema:
-  version: 2016.12
-project:
+  version: "2016.12"
+package:
   name: packageschema
+  version: 1.0.0
   module_names:
     - packageschema
   exports:
